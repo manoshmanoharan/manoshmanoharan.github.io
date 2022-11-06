@@ -1,0 +1,122 @@
+{"0": {
+    "doc": "Cosmology",
+    "title": "Cosmology",
+    "content": " ",
+    "url": "/just-the-docs/notebooks/cosmology_research",
+    "relUrl": "/notebooks/cosmology_research"
+  },"1": {
+    "doc": "Cosmology",
+    "title": "Cosmology",
+    "content": "| A holographic dark energy from the laws of thermodynamics with Rényi entropy | . | ArXiv (2022) | . | Abstract: This article investigates the relationship between the holographic principle and the laws of thermodynamics in explaining the late-time acceleration of the universe. First, we explore the possibilities of generating the standard holographic dark energy (SHDE) from the laws of horizon thermodynamics. Except for entropies that follow an exponent stretched area law, unless we redefine the horizon temperature, we found it challenging to construct a one-to-one correspondence between the dark energies defined by the holographic principle and the laws of thermodynamics. Secondly, in SHDE models, unless we invoke some phenomenological interactions, it is impossible to explain the late-time cosmic acceleration with the Hubble horizon as the IR cutoff. On the other hand, it is possible to induce dark energy as an integration constant using the laws of thermodynamics on the Hubble horizon. These motivated us to explore a feasible way to invoke the holographic principle from the laws of horizon thermodynamics. We show that the additional terms that appear in the modified Friedmann equations on using entropies other than the Bekenstein-Hawking entropy in the first law of thermodynamics can behave like a dynamic holographic dark energy (HDE). We study the features of such an HDE with Rényi entropy as the choice without considering any non-standard interactions. Interestingly, the resulting form of dark energy reduces to the standard cosmological constant when Rényi entropy reduces to the Bekenstein-Hawking entropy. By examining different parameters, we affirm the validity of our approach to dark energy, which respects both holographic principle and thermodynamics. | . ",
+    "url": "/just-the-docs/docs/cosmology_research/",
+    "relUrl": "/docs/cosmology_research/"
+  },"2": {
+    "doc": "Dark Energy",
+    "title": "What is dark energy",
+    "content": "Observations tell us that universe has more stuff than we see with our naked eye. ",
+    "url": "/just-the-docs/notebooks/dark_energy/#what-is-dark-energy",
+    "relUrl": "/notebooks/dark_energy/#what-is-dark-energy"
+  },"3": {
+    "doc": "Dark Energy",
+    "title": "Dark Energy",
+    "content": " ",
+    "url": "/just-the-docs/notebooks/dark_energy/",
+    "relUrl": "/notebooks/dark_energy/"
+  },"4": {
+    "doc": "About",
+    "title": "Manosh T. Manoharan",
+    "content": "Hi! my name is Manosh T. Manoharan and I also go by the name Manu. Most of the time I am engaged in doing theoretical physics. Which means I read and do cosmology. If you are interested in knowing my academic path, feel free to go through my CV down in the link. My CV . If you want to reach out to me, do check out the contact me page. There are plenty of options. Do look below, that is how I look. ",
+    "url": "/just-the-docs/#manosh-t-manoharan",
+    "relUrl": "/#manosh-t-manoharan"
+  },"5": {
+    "doc": "About",
+    "title": "About",
+    "content": " ",
+    "url": "/just-the-docs/",
+    "relUrl": "/"
+  },"6": {
+    "doc": "My Blogs",
+    "title": "My Blogs",
+    "content": " ",
+    "url": "/just-the-docs/blogs/my_blogs",
+    "relUrl": "/blogs/my_blogs"
+  },"7": {
+    "doc": "Particle Physics",
+    "title": "Particle physics",
+    "content": ". | Theoretical | Experimental | . ",
+    "url": "/just-the-docs/notebooks/particle_physics_research/#particle-physics",
+    "relUrl": "/notebooks/particle_physics_research/#particle-physics"
+  },"8": {
+    "doc": "Particle Physics",
+    "title": "Theoretical",
+    "content": "| Pancharatnam-Berry phase in neutrino mixing | . | ArXiv (2021) | . | Abstract: Soon… | . ",
+    "url": "/just-the-docs/notebooks/particle_physics_research/#theoretical",
+    "relUrl": "/notebooks/particle_physics_research/#theoretical"
+  },"9": {
+    "doc": "Particle Physics",
+    "title": "Experimental",
+    "content": "These works are associated with the NOvA collaboration at Fermilab, USA. | The Profiled Feldman-Cousins technique for confidence interval construction in the presence of nuisance parameters | . | ArXiv (2022) NOvA Collaboration | . | Abstract: Measuring observables to constrain models using maximum-likelihood estimation is fundamental to many physics experiments. The Profiled Feldman-Cousins method described here is a potential solution to common challenges faced in constructing accurate confidence intervals: small datasets, bounded parameters, and the need to properly handle nuisance parameters. This method achieves more accurate frequentist coverage than other methods in use, and is generally applicable to the problem of parameter estimation in neutrino oscillations and similar measurements. We describe an implementation of this method in the context of the NOvA experiment. | . | Measurement of the \\(\\nu_e\\)-Nucleus Charged-Current Double-Differential Cross Section at \\(⟨E_\\nu⟩\\)= 2.4 GeV using NOvA | . | ArXiv (2022) NOvA Collaboration | . | Abstract: The inclusive electron neutrino charged-current cross section is measured in the NOvA near detector using \\(8.02\\times10^{20}\\) protons-on-target (POT) in the NuMI beam. The sample of GeV electron neutrino interactions is the largest analyzed to date and is limited by \\(\\approx\\) 17% systematic rather than the \\(\\approx\\) 7.4% statistical uncertainties. The double-differential cross section in final-state electron energy and angle is presented for the first time, together with the single-differential dependence on \\(Q^2\\) (squared four-momentum transfer) and energy, in the range 1 GeV \\(\\le E_\\nu&lt;\\)6 GeV. Detailed comparisons are made to the predictions of the GENIE, GiBUU, NEUT, and NuWro neutrino event generators. The data do not strongly favor a model over the others consistently across all three cross sections measured, though some models have especially good or poor agreement in the single differential cross section vs. \\(Q^2\\). | . ",
+    "url": "/just-the-docs/notebooks/particle_physics_research/#experimental",
+    "relUrl": "/notebooks/particle_physics_research/#experimental"
+  },"10": {
+    "doc": "Particle Physics",
+    "title": "Particle Physics",
+    "content": " ",
+    "url": "/just-the-docs/notebooks/particle_physics_research/",
+    "relUrl": "/notebooks/particle_physics_research/"
+  },"11": {
+    "doc": "Particle Physics",
+    "title": "Particle physics",
+    "content": ". | Theoretical | Experimental | . ",
+    "url": "/just-the-docs/docs/particle_physics_research/#particle-physics",
+    "relUrl": "/docs/particle_physics_research/#particle-physics"
+  },"12": {
+    "doc": "Particle Physics",
+    "title": "Theoretical",
+    "content": "| Pancharatnam-Berry phase in neutrino mixing | . | ArXiv (2021) | . | Abstract: Soon… | . ",
+    "url": "/just-the-docs/docs/particle_physics_research/#theoretical",
+    "relUrl": "/docs/particle_physics_research/#theoretical"
+  },"13": {
+    "doc": "Particle Physics",
+    "title": "Experimental",
+    "content": "These works are associated with the NOvA collaboration at Fermilab, USA. | The Profiled Feldman-Cousins technique for confidence interval construction in the presence of nuisance parameters | . | ArXiv (2022) NOvA Collaboration | . | Abstract: Measuring observables to constrain models using maximum-likelihood estimation is fundamental to many physics experiments. The Profiled Feldman-Cousins method described here is a potential solution to common challenges faced in constructing accurate confidence intervals: small datasets, bounded parameters, and the need to properly handle nuisance parameters. This method achieves more accurate frequentist coverage than other methods in use, and is generally applicable to the problem of parameter estimation in neutrino oscillations and similar measurements. We describe an implementation of this method in the context of the NOvA experiment. | . | Measurement of the \\(\\nu_e\\)-Nucleus Charged-Current Double-Differential Cross Section at \\(⟨E_\\nu⟩\\)= 2.4 GeV using NOvA | . | ArXiv (2022) NOvA Collaboration | . | Abstract: The inclusive electron neutrino charged-current cross section is measured in the NOvA near detector using \\(8.02\\times10^{20}\\) protons-on-target (POT) in the NuMI beam. The sample of GeV electron neutrino interactions is the largest analyzed to date and is limited by \\(\\approx\\) 17% systematic rather than the \\(\\approx\\) 7.4% statistical uncertainties. The double-differential cross section in final-state electron energy and angle is presented for the first time, together with the single-differential dependence on \\(Q^2\\) (squared four-momentum transfer) and energy, in the range 1 GeV \\(\\le E_\\nu&lt;\\)6 GeV. Detailed comparisons are made to the predictions of the GENIE, GiBUU, NEUT, and NuWro neutrino event generators. The data do not strongly favor a model over the others consistently across all three cross sections measured, though some models have especially good or poor agreement in the single differential cross section vs. \\(Q^2\\). | . ",
+    "url": "/just-the-docs/docs/particle_physics_research/#experimental",
+    "relUrl": "/docs/particle_physics_research/#experimental"
+  },"14": {
+    "doc": "Particle Physics",
+    "title": "Particle Physics",
+    "content": " ",
+    "url": "/just-the-docs/docs/particle_physics_research/",
+    "relUrl": "/docs/particle_physics_research/"
+  },"15": {
+    "doc": "Physics Notebooks",
+    "title": "Physics Notebooks",
+    "content": " ",
+    "url": "/just-the-docs/notebooks/physics_notebooks",
+    "relUrl": "/notebooks/physics_notebooks"
+  },"16": {
+    "doc": "Quantum Optics",
+    "title": "Quantum Optics",
+    "content": "After obtaining my masters in physics, I joined CUSAT as a project fellow under the KSCSTE emeritus scientist scheme, with Dr. Ramesh Babu T. In collaboration with his PhD student Muhammed Ashefas we produced three three research papers. Following are the link and abstract to them. | Kerr-Nonlinearity Enhanced Single Photon Blockade in Jaynes-Cummings Model | . | International Journal of Theoretical Physics, Vol 61, 186 (2022) | . | Abstract: We present a theoretical investigation of the single photon blockade effect in a driven qubit-cavity system with Kerr nonlinearity and dissipation. External fields drive both the cavity field and qubit. We calculated the equal time photon correlation functions and photon number distributions for different parameter domains of the system, including qubit-cavity detuning and found an enhancement of single photon blockade with Kerr nonlinearity irrespective of the domains. We propose a new measure for verifying single photon blockade in terms of correlation functions, and it is consistent with the criteria for photon blockade. The proposed scheme is more effective for the experimental realization of single photon sources using a qubit-cavity system. | . | Preservation of dynamics in coupled cavity system using second order nonlinearity | . | ArXiv (2019) | . | Abstract: We study two coupled cavities with a single two-level system in each and a second-order non-linear process in one of the cavities. Introduction of a harmonic time dependence on the non-linear coupling is utilized for the preservation of dynamics. It is observed that, even though the preservation period is independent of the initial state, the preserved dynamics depends on the initial state. We calculated the von Neumann entropy and mutual information to study the entanglement present between the subsystems. From which it is found that the time-dependent coupling also preserves the entanglement produced in the system. | . | Effects of Kerr medium in coupled cavities on quantum state transfer | . | Journal of Nonlinear Optical Physics &amp; MaterialsVol. 27, No. 03, 1850035 (2018) | . | Abstract: We study the effect of Kerr type nonlinear medium in quantum state transfer (QST). We have investigated the effect of different coupling schemes and Kerr medium parameters \\(p\\) and \\(\\omega_k\\). We found that the Kerr medium introduced in the connection channel can act like a controller for QST. The numerical simulations are performed without taking the adiabatic approximation. Rotating wave approximation is used in the atom–cavity interaction only in the lower coupling regime. | . ",
+    "url": "/just-the-docs/notebooks/quantum_optics_research/",
+    "relUrl": "/notebooks/quantum_optics_research/"
+  },"17": {
+    "doc": "Quantum Optics",
+    "title": "Quantum Optics",
+    "content": "After obtaining my masters in physics, I joined CUSAT as a project fellow under the KSCSTE emeritus scientist scheme, with Dr. Ramesh Babu T. In collaboration with his PhD student Muhammed Ashefas we produced three three research papers. Following are the link and abstract to them. | Kerr-Nonlinearity Enhanced Single Photon Blockade in Jaynes-Cummings Model | . | International Journal of Theoretical Physics, Vol 61, 186 (2022) | . | Abstract: We present a theoretical investigation of the single photon blockade effect in a driven qubit-cavity system with Kerr nonlinearity and dissipation. External fields drive both the cavity field and qubit. We calculated the equal time photon correlation functions and photon number distributions for different parameter domains of the system, including qubit-cavity detuning and found an enhancement of single photon blockade with Kerr nonlinearity irrespective of the domains. We propose a new measure for verifying single photon blockade in terms of correlation functions, and it is consistent with the criteria for photon blockade. The proposed scheme is more effective for the experimental realization of single photon sources using a qubit-cavity system. | . | Preservation of dynamics in coupled cavity system using second order nonlinearity | . | ArXiv (2019) | . | Abstract: We study two coupled cavities with a single two-level system in each and a second-order non-linear process in one of the cavities. Introduction of a harmonic time dependence on the non-linear coupling is utilized for the preservation of dynamics. It is observed that, even though the preservation period is independent of the initial state, the preserved dynamics depends on the initial state. We calculated the von Neumann entropy and mutual information to study the entanglement present between the subsystems. From which it is found that the time-dependent coupling also preserves the entanglement produced in the system. | . | Effects of Kerr medium in coupled cavities on quantum state transfer | . | Journal of Nonlinear Optical Physics &amp; MaterialsVol. 27, No. 03, 1850035 (2018) | . | Abstract: We study the effect of Kerr type nonlinear medium in quantum state transfer (QST). We have investigated the effect of different coupling schemes and Kerr medium parameters \\(p\\) and \\(\\omega_k\\). We found that the Kerr medium introduced in the connection channel can act like a controller for QST. The numerical simulations are performed without taking the adiabatic approximation. Rotating wave approximation is used in the atom–cavity interaction only in the lower coupling regime. | . ",
+    "url": "/just-the-docs/docs/quantum_optics_research/",
+    "relUrl": "/docs/quantum_optics_research/"
+  },"18": {
+    "doc": "Research Publications",
+    "title": "Research Publications",
+    "content": "Mostly I work on problems in theoretical physics, however, I am interested in almost everything I read. For me there is nothing boring in this world (Except for the ‘pay wall’ in some journal). In theoretical physics, I work mostly on problems in cosmology and particle physics. I have also worked in theoretical quantum optics and experimental high energy physics. My special focus is on dark energy models and neutrinos. You can find the full list of my publications down here : . My publication list . Click to see in groups . Research trends vary across the globe. This is what the global search trend looks like for dark energy, neutrinos and cosmology. ",
+    "url": "/just-the-docs/docs/research",
+    "relUrl": "/docs/research"
+  },"19": {
+    "doc": "Has W Boson destroyed the Standard Model?",
+    "title": "Has W Boson destroyed the Standard Model?",
+    "content": "The discovery, recently published in the American journal Science, is said to be capable of overturning our current understanding of physics. So let’s see what the truth is. Based on data from the Tevatron, the CDF (Collider Detector at Fermilab) team under Fermilab in the United States says that the weight of the W boson has been measured very accurately. Before delving into the details of the experiment, let’s understand what the Standard Model of particle physics is. The Standard Model, the canonical model of particle physics, describes the fundamental particles of the universe. The Standard Model has 6 leptons, 6 quarks, 4 gauge bosons, and one Higgs boson. Everything in the universe around us is made of these fundamental particles. Of these, we thought the Higgs boson was the last puzzle of the Standard Model. The Higgs boson gives mass to the above elementary particles. Science says that the W boson also gets its mass through the Higgs mechanism. The mass of the W boson is 80.357 +/- 0.004 GeV according to the results of worldwide experiments. This value is consistent with the theoretical prediction of the standard model. The theoretical prediction is between 80.356 GeV and 80.357 GeV. The CDF experiment estimates the mass of the W boson to be 80.4335 +/- 0.0094 GeV. Thus, there is a discrepancy between the theoretical prediction of the standard model and the experimental results of the CDF experiment. This is a summary of the new trending news about calculating the mass of W. Why is the CDF experimental value better than the LHC experimental values? . Credit: CDF Collaboration, T. Aaltonen et al., Science, 20 LHC (Large Hadron Collider) experiments have 10 times more collisions per detector than CDF experiments. However, despite the large amount of data, the LHC has greater statistical and systematic uncertainties because we know less about the physics at such high energies. On the other hand, the CDF experiment operates at much lower energies than the LHC, and we have less background data from which to select relevant data. So the CDF experimental results should be very good compared to other existing ones. Could the CDF experiment be wrong? . Credit: CDF Collaboration, T. Aaltonen et al., Science, 20 Physics is an experimental science. Physicists can only verify what they can measure with some experimental data. But what if the measurement itself is wrong? In such cases, we seek validation of the measure using another experiment or the same experiment. Using this method we can confirm or reject previous results. So, now we cannot accept or reject the CDF results. The best we can do is wait for another competing experiment to make an accurate measurement of the mass of the W boson, or let the CDF experiment repeat the analysis with more calibrated analytical tools. The CDF experiment is a decade-long effort by nearly 400 leading scientists from around the world. The article announcing the results appeared in one of the most prestigious journals available, Science. While this doesn’t prove the article is true or not, we can be sure there is more to discover than we know. Reference . | https://www.science.org/doi/10.1126/science.abk1781 | https://bigthink.com/starts-with-a-bang/hole-in-the-standard-model/ | . For the Malayalam version of the above article visit LUCA . ",
+    "url": "/just-the-docs/blogs/w_boson",
+    "relUrl": "/blogs/w_boson"
+  }
+}
