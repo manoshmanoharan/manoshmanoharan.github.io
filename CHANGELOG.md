@@ -12,4 +12,4 @@ You may check my updates @ any of the following socials
 3. [Facebook](https://www.facebook.com/profile.php?id=100008584153018){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
 4. [Instagram](https://www.instagram.com/tm.manosh/){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
 
-I am not comfortable with calls. However, if it is an emergency you may already have my nunmber.
+I am not comfortable with calls. However, if it is an emergency you already have my nunmber.
