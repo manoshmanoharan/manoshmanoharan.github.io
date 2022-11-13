@@ -1,4 +1,6 @@
-# Contact Me
+# Contact Me 
+
+I prefer he/him.
 
 You may email me @
 
