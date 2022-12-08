@@ -15,7 +15,7 @@ nav_order: 2
 ## Theoretical
 
 | Pancharatnam-Berry phase in neutrino mixing|
-| [ArXiv (2021)](docs/manosh_GP.pdf)|
+| [ArXiv (2021)]|[PDF](docs/manosh_GP.pdf){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
 |:----------|
 | **Abstract:** Soon... |
 
