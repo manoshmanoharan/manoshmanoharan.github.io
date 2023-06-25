@@ -6,6 +6,7 @@ nav_order: 1
 has_children: false
 permalink: /blogs/w_boson
 ---
+![myimage](:1.png)
 # Has W Boson destroyed the Standard Model?
 
 The discovery, recently published in the American journal Science, is said to be capable of overturning our current understanding of physics. So let's see what the truth is.
